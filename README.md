@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kelvinangelus
 - 👀 I’m interested in to improve my skills and learn with others
-- 🌱 I’m currently learning .NET and C# tecnologies
+- 🌱 I’m currently learning .NET/C# and JAVA tecnologies
 - 💞️ I’m looking to collaborate on projects around the world
 - 📫 How to reach me: www.linkedin.com/in/kelvin-ângelus-veloso-0b9160106
 
